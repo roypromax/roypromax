@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, HTML, CSS, Javascript**
 
-- 👨‍💻 All of my projects are available at [https://roypromax.github.io](https://roypromax.github.io)
+- 👨‍💻 All of my projects are available at <a href="https://roypromax.github.io/">https://roypromax.github.io/</a>
 
 - 📫 How to reach me **roy19rishabh@gmail.com**
 
