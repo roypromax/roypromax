@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://roypromax.github.io/">https://roypromax.github.io/</a>
 
-- 📫 How to reach me **roy19rishabh@gmail.com**
+- 📫 Reach me at **roy19rishabh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
