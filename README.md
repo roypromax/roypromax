@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Rishabh Roy</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 
-<img align="right" width="500px" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roypromax&label=Profile%20views&color=0e75b6&style=flat-square" alt="roypromax" /> </p>
+
+<img align="right" width="500px" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roypromax" alt="roypromax" /></a> </p>
 
