@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roypromax" alt="roypromax" /></a> </p>
 
-<img align="right" width="400px" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
+<img align="right" width="350px" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
 
 
 - 🌱 I’m currently learning **React, Node, MongoDB, Express**
