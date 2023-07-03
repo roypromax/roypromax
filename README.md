@@ -10,7 +10,7 @@
 <img align="right" width="350px" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
 
 
-- 🌱 I’m currently learning **React, Node, MongoDB, Express**
+- 🌱 I’m currently learning **Python, Flask**
 
 - 💬 Ask me about **React, HTML, CSS, Javascript**
 
